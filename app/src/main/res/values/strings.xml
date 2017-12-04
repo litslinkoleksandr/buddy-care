@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BuddyCare</string>
+
+    <string name="menu_account">Account</string>
+
+    <string name="type_wish">WISH</string>
+    <string name="type_can_do">CAN DO</string>
+
+    <string name="btn_can_do">I can do this!</string>
+
+</resources>
