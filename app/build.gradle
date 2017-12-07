@@ -18,7 +18,7 @@ android {
         }
         debug {
             debuggable true
-            buildConfigField 'String', 'ENDPOINT', '"http://192.168.0.71:3000/api/v1/"'
+            buildConfigField 'String', 'ENDPOINT', '"https://buddycare.herokuapp.com/api/v1/"'
         }
     }
 
